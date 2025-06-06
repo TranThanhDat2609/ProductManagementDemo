@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "D:\\VScode\\ProductManagementDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,9 +57,6 @@
       "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -72,9 +75,6 @@
       "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -85,11 +85,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\VScode\\WPFApp\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\WPFApp\\LoginWindow.xaml.cs",
@@ -101,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "WPFApp.csproj",
               "DocumentMoniker": "D:\\VScode\\WPFApp\\WPFApp.csproj",
               "RelativeDocumentMoniker": "..\\WPFApp\\WPFApp.csproj",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\VScode\\WPFApp\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "..\\WPFApp\\LoginWindow.xaml",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AccountService.cs",
               "DocumentMoniker": "D:\\VScode\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "..\\Services\\AccountService.cs",
@@ -136,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\VScode\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "..\\Services\\ProductService.cs",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "D:\\VScode\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "..\\Services\\CategoryService.cs",
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "D:\\VScode\\Services\\IAccountService.cs",
               "RelativeDocumentMoniker": "..\\Services\\IAccountService.cs",
@@ -172,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\VScode\\BusinessObjects\\Product.cs",
               "RelativeDocumentMoniker": "..\\BusinessObjects\\Product.cs",
@@ -184,19 +184,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "IProductService.cs",
               "DocumentMoniker": "D:\\VScode\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "..\\Services\\IProductService.cs",
               "ToolTip": "D:\\VScode\\Services\\IProductService.cs",
               "RelativeToolTip": "..\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwA4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:05:17.793Z"
+              "WhenOpened": "2025-06-05T14:05:17.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ICatergoryService.cs",
               "DocumentMoniker": "D:\\VScode\\Services\\ICatergoryService.cs",
               "RelativeDocumentMoniker": "..\\Services\\ICatergoryService.cs",
@@ -208,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\VScode\\WPFApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\WPFApp\\MainWindow.xaml",
@@ -219,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\VScode\\WPFApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\WPFApp\\MainWindow.xaml.cs",
@@ -231,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Services.csproj",
               "DocumentMoniker": "D:\\VScode\\Services\\Services.csproj",
               "RelativeDocumentMoniker": "..\\Services\\Services.csproj",
@@ -243,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AccountRepository.cs",
               "DocumentMoniker": "D:\\VScode\\Repositories\\AccountRepository.cs",
               "RelativeDocumentMoniker": "..\\Repositories\\AccountRepository.cs",
@@ -255,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\VScode\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "..\\Repositories\\ProductRepository.cs",
@@ -267,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "D:\\VScode\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\Repositories\\CategoryRepository.cs",
@@ -279,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IAccountRepository.cs",
               "DocumentMoniker": "D:\\VScode\\Repositories\\IAccountRepository.cs",
               "RelativeDocumentMoniker": "..\\Repositories\\IAccountRepository.cs",
@@ -291,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\VScode\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "..\\Repositories\\IProductRepository.cs",
@@ -303,20 +304,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ICatergoryRepository.cs",
               "DocumentMoniker": "D:\\VScode\\Repositories\\ICatergoryRepository.cs",
               "RelativeDocumentMoniker": "..\\Repositories\\ICatergoryRepository.cs",
               "ToolTip": "D:\\VScode\\Repositories\\ICatergoryRepository.cs",
               "RelativeToolTip": "..\\Repositories\\ICatergoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T15:35:13.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BusinessObjects.csproj",
               "DocumentMoniker": "D:\\VScode\\BusinessObjects\\BusinessObjects.csproj",
               "RelativeDocumentMoniker": "..\\BusinessObjects\\BusinessObjects.csproj",
@@ -328,15 +329,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 0,
               "Title": "AccountDAO.cs",
               "DocumentMoniker": "D:\\VScode\\DataAccessObjects\\AccountDAO.cs",
               "RelativeDocumentMoniker": "..\\DataAccessObjects\\AccountDAO.cs",
               "ToolTip": "D:\\VScode\\DataAccessObjects\\AccountDAO.cs",
               "RelativeToolTip": "..\\DataAccessObjects\\AccountDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:18:23.436Z"
+              "WhenOpened": "2025-06-04T15:18:23.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -352,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CategoryDAO.cs",
               "DocumentMoniker": "D:\\VScode\\DataAccessObjects\\CategoryDAO.cs",
               "RelativeDocumentMoniker": "..\\DataAccessObjects\\CategoryDAO.cs",
@@ -364,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "DataAccessObjects.csproj",
               "DocumentMoniker": "D:\\VScode\\DataAccessObjects\\DataAccessObjects.csproj",
               "RelativeDocumentMoniker": "..\\DataAccessObjects\\DataAccessObjects.csproj",
@@ -376,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\VScode\\BusinessObjects\\Category.cs",
               "RelativeDocumentMoniker": "..\\BusinessObjects\\Category.cs",
