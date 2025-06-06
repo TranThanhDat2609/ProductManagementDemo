@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VScode\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F742E0-161A-4809-AC38-EC48BCC959B9}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\vscode\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F742E0-161A-4809-AC38-EC48BCC959B9}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\vscode\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F742E0-161A-4809-AC38-EC48BCC959B9}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\vscode\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9982EE2C-615D-448D-80B5-A7E590CCEDC7}|..\\WPFApp\\WPFApp.csproj|d:\\vscode\\wpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9982EE2C-615D-448D-80B5-A7E590CCEDC7}|..\\WPFApp\\WPFApp.csproj|d:\\vscode\\wpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9982EE2C-615D-448D-80B5-A7E590CCEDC7}|..\\WPFApp\\WPFApp.csproj|d:\\vscode\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9982EE2C-615D-448D-80B5-A7E590CCEDC7}|..\\WPFApp\\WPFApp.csproj|d:\\vscode\\wpfapp\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9982EE2C-615D-448D-80B5-A7E590CCEDC7}|..\\WPFApp\\WPFApp.csproj|d:\\vscode\\wpfapp\\wpfapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\dataaccessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C474823-DD52-45A2-AE58-3CFE6C612493}|..\\Services\\Services.csproj|d:\\vscode\\services\\icatergoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ABB7BA7-B428-47CF-A373-5AE05DE6C9B9}|..\\Repositories\\Repositories.csproj|d:\\vscode\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89836827-49E7-4D27-93EB-2B800D781837}|..\\DataAccessObjects\\DataAccessObjects.csproj|d:\\vscode\\dataaccessobjects\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VScode\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WPFApp\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\VScode\\WPFApp\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "..\\WPFApp\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:41:49.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WPFApp.csproj",
+              "DocumentMoniker": "D:\\VScode\\WPFApp\\WPFApp.csproj",
+              "RelativeDocumentMoniker": "..\\WPFApp\\WPFApp.csproj",
+              "ToolTip": "D:\\VScode\\WPFApp\\WPFApp.csproj",
+              "RelativeToolTip": "..\\WPFApp\\WPFApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T14:41:29.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\VScode\\WPFApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WPFApp\\LoginWindow.xaml",
+              "ToolTip": "D:\\VScode\\WPFApp\\LoginWindow.xaml",
+              "RelativeToolTip": "..\\WPFApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T14:40:50.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\VScode\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\AccountService.cs",
+              "ToolTip": "D:\\VScode\\Services\\AccountService.cs",
+              "RelativeToolTip": "..\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:37:01.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\VScode\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ProductService.cs",
+              "ToolTip": "D:\\VScode\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:31:34.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\VScode\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\VScode\\Services\\CategoryService.cs",
+              "RelativeToolTip": "..\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:30:44.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\VScode\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IAccountService.cs",
+              "ToolTip": "D:\\VScode\\Services\\IAccountService.cs",
+              "RelativeToolTip": "..\\Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:25:01.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VScode\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\VScode\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "..\\BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:13:58.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\VScode\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IProductService.cs",
+              "ToolTip": "D:\\VScode\\Services\\IProductService.cs",
+              "RelativeToolTip": "..\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:05:17.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICatergoryService.cs",
+              "DocumentMoniker": "D:\\VScode\\Services\\ICatergoryService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\ICatergoryService.cs",
+              "ToolTip": "D:\\VScode\\Services\\ICatergoryService.cs",
+              "RelativeToolTip": "..\\Services\\ICatergoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:56:43.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\VScode\\WPFApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\WPFApp\\MainWindow.xaml",
+              "ToolTip": "D:\\VScode\\WPFApp\\MainWindow.xaml",
+              "RelativeToolTip": "..\\WPFApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T15:50:19.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\VScode\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\WPFApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\VScode\\WPFApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\WPFApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:50:18.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\VScode\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "..\\Services\\Services.csproj",
+              "ToolTip": "D:\\VScode\\Services\\Services.csproj",
+              "RelativeToolTip": "..\\Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T15:46:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\VScode\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\VScode\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:42:42.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\VScode\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\VScode\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:42:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\VScode\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\VScode\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:40:17.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\VScode\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\VScode\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:39:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\VScode\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\VScode\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:38:46.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICatergoryRepository.cs",
+              "DocumentMoniker": "D:\\VScode\\Repositories\\ICatergoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repositories\\ICatergoryRepository.cs",
+              "ToolTip": "D:\\VScode\\Repositories\\ICatergoryRepository.cs",
+              "RelativeToolTip": "..\\Repositories\\ICatergoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:35:13.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessObjects.csproj",
+              "DocumentMoniker": "D:\\VScode\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\VScode\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "..\\BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T15:03:49.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\VScode\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessObjects\\AccountDAO.cs",
+              "ToolTip": "D:\\VScode\\DataAccessObjects\\AccountDAO.cs",
+              "RelativeToolTip": "..\\DataAccessObjects\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:18:23.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\VScode\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessObjects\\ProductDAO.cs",
+              "ToolTip": "D:\\VScode\\DataAccessObjects\\ProductDAO.cs",
+              "RelativeToolTip": "..\\DataAccessObjects\\ProductDAO.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:12:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\VScode\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessObjects\\CategoryDAO.cs",
+              "ToolTip": "D:\\VScode\\DataAccessObjects\\CategoryDAO.cs",
+              "RelativeToolTip": "..\\DataAccessObjects\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:07:48.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataAccessObjects.csproj",
+              "DocumentMoniker": "D:\\VScode\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccessObjects\\DataAccessObjects.csproj",
+              "ToolTip": "D:\\VScode\\DataAccessObjects\\DataAccessObjects.csproj",
+              "RelativeToolTip": "..\\DataAccessObjects\\DataAccessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T15:07:31.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\VScode\\BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\Category.cs",
+              "ToolTip": "D:\\VScode\\BusinessObjects\\Category.cs",
+              "RelativeToolTip": "..\\BusinessObjects\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:05:28.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
